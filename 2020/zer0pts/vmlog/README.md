@@ -1,8 +1,11 @@
 # zer0pts : vmlog-
 
 **Solver:** plsd0nth4ck
+
 **Category:** rev
+
 **Points:** 213
+
 **Description:**
 
 I wrote my vm and its program. Can you guess the source code and input?
